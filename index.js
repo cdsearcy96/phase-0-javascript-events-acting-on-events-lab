@@ -26,3 +26,4 @@ function moveDodgerLeft() {
       moveDodgerRight();
     }
   });
+  //test
